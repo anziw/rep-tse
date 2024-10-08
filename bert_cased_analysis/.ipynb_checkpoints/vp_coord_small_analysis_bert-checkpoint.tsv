@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	vp_coord	2.546527903089711	2.546527903089711	0.7851251840942562

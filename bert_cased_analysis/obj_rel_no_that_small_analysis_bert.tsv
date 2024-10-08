@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	bert-base-cased	obj_rel_no_that	0.7176099964232836	0.7176099964232836	0.6214180517567851
