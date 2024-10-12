@@ -1,0 +1,13 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - gpt2
+
+datafpath: Midterm_Replication/rep-tse/data/obj_rel_no_that_small.tsv
+predfpath: Midterm_Replication/rep-tse/gpt2_evaluation/obj_rel_no_that_small_evaluation_gpt.tsv
+
+batchSize: 512
