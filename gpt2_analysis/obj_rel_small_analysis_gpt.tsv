@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	gpt2	obj_rel	1.0877954226042768	1.0877954226042768	0.6379707553124343
