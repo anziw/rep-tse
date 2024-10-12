@@ -1,0 +1,2 @@
+	model	condition	microdiff	macrodiff	acc
+0	gpt2	sent_comp	3.378102808294533	3.378102808294533	0.7611298127498423
