@@ -46,7 +46,13 @@ file_paths = [
     '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/bert_cased_analysis/subj_rel_small_analysis_bert_byROI.tsv',
     '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/bert_cased_analysis/sent_comp_small_analysis_bert_byROI.tsv',
     '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/bert_cased_analysis/obj_rel_small_analysis_bert_byROI.tsv',
-    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/bert_cased_analysis/obj_rel_no_that_small_analysis_bert_byROI.tsv'
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/bert_cased_analysis/obj_rel_no_that_small_analysis_bert_byROI.tsv',
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/gpt2_analysis/simple_small_analysis_gpt_byROI.tsv',
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/gpt2_analysis/vp_coord_small_analysis_gpt_byROI.tsv',
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/gpt2_analysis/subj_rel_small_analysis_gpt_byROI.tsv',
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/gpt2_analysis/sent_comp_small_analysis_gpt_byROI.tsv',
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/gpt2_analysis/obj_rel_small_analysis_gpt_byROI.tsv',
+    '/home/bkherlen/NLPScholar/Midterm_Replication/rep-tse/gpt2_analysis/obj_rel_no_that_small_analysis_gpt_byROI.tsv'
 ]
 
 for file_path in file_paths:
